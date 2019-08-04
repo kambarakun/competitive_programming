@@ -2,11 +2,11 @@
 
 ## Abstract
 
-AtCoder に Python3 で参戦中、コード検索用  
+AtCoder に主に Python3 で参戦中、コード検索用  
 PEP8 は華麗にスルー中  
 
-[https://atcoder.jp/users/kambarakun](https://atcoder.jp/users/kambarakun)  
-[https://kenkoooo.com/atcoder/?user=kambarakun](https://kenkoooo.com/atcoder/?user=kambarakun)  
-[https://kenkoooo.com/atcoder/?user=kambarakun&kind=user](https://kenkoooo.com/atcoder/?user=kambarakun&kind=user)  
+* [kambarakun @ AtCoder](https://atcoder.jp/users/kambarakun)
+* [kambarakun @ AtCoder Problems](https://kenkoooo.com/atcoder/?user=kambarakun)
 
 ## References
+* [Pythonで競技プログラミング 〜基本的なアルゴリズム〜 @ Qiita](https://qiita.com/knakajima3027/items/b871631b8997a6d67223)
