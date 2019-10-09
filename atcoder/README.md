@@ -9,7 +9,7 @@
 
 * [kambarakun @ AtCoder](https://atcoder.jp/users/kambarakun)
 * [kambarakun @ AtCoder Problems](https://kenkoooo.com/atcoder/?user=kambarakun#/user/kambarakun)
-* [kambarakun @ AtCoder Problems Table](https://kenkoooo.com/atcoder/?user=kambarakun)
+* [kambarakun @ AtCoder Problems Table](https://kenkoooo.com/atcoder/#/table/kambarakun)
 * [this page @ GitHub](https://github.com/kambarakun/competitive_programming/tree/master/atcoder)
 
 ## Note
@@ -42,3 +42,5 @@
 * [アルゴリズム実装集 by kira924age](https://kira924age.github.io/Algorithm/index.html)
 * [in 演算子は set で使うべきな話](https://www.haya-programming.com/entry/2018/04/04/121458)
 * [計算量の少し難しい話 by Hironsan@Qiita](https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb)
+* [https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1)
+* [https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0](https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0)
