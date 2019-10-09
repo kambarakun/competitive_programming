@@ -1,3 +1,4 @@
+import datetime
 import os
 
 
@@ -28,5 +29,5 @@ if os.path.exists(abspath) == False:
     fp_blank = open(abspath, 'w', encoding='utf-8')
     fp_blank.write('# %s\n\n' % str_name)
     for suffix in list_suffix:
-        fp_blank.write('## %s（）\n\n' % suffix)
+        fp_blank.write('## %s（%s）\n\n' % (suffix, datetime.date.today().strftime('%Y/%m/%d')))
     fp_blank.close()
